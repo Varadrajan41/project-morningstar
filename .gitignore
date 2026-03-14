@@ -1,0 +1,18 @@
+# Python Virtual Environment
+venv/
+.venv/
+env/
+
+# Vector Database (Do not upload your memory!)
+morningstar_db/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Auto-generated daily Markdown files (Optional, but good practice to keep the repo clean)
+Morningstar_Digest_*.md
+
+# OS Files
+.DS_Store
+Thumbs.db
